@@ -114,3 +114,6 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+# my own ignores
+apikey.txt
